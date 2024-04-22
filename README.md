@@ -25,3 +25,50 @@ This project's main goal is to create a reliable model that can accurately predi
 
 <br><br>
 Dataset  - https://www.kaggle.com/code/pkulaba1290/starter-graduate-admissions-91c64936-a/input
+
+<br><br>
+
+**Result** <br><br>
+Data Preparation and Model Training:
+
+1. We collected a dataset containing features such as GRE scores, TOEFL scores, SOP, LOR, CGPA, and admission outcomes (admitted or not admitted).
+2. After preprocessing steps, including dropping irrelevant columns and handling missing values, we divided the dataset into training and testing sets (67% training, 33% testing).
+3. Each algorithm was trained using the training set to learn patterns and relationships in the data.
+
+<br>
+
+Model Evaluation and Prediction : 
+
+Model evaluation means how accurately the machine learning algorithms predict admission outcomes (admitted or not admitted) based on features like GRE scores, TOEFL scores, SOP, LOR, and CGPA. Metrics such as accuracy, precision, recall, and F1 score are used to measure the model's performance. Prediction refers to using the trained models to predict whether a new applicant is likely to be admitted or not based on their input data.
+
+In this model if a candidate's Chance of Admit is greater than 80%, the candidate will receive the 1 label otherwise it will be labeled as 0.
+
+<br><br>
+
+**Input** <br><br>
+<img width="1000" alt="Screenshot 2024-04-22 at 9 38 37 PM" src="https://github.com/GagandeepCodes/machine-learning-admission-prediction/assets/107742349/6aea6ee4-d98c-4026-92ee-239a05343ddf">
+
+<br><br>
+
+**Output** <br><br>
+<img width="1000" alt="Screenshot 2024-04-22 at 9 40 18 PM" src="https://github.com/GagandeepCodes/machine-learning-admission-prediction/assets/107742349/ea0a15e3-90c8-408d-8f7f-e09250cc59a7">
+
+<br><br>
+
+**Confusion Matrix and Classification Report of Support Vector Machine** <br><br>
+
+<img width="1000" alt="Screenshot 2024-04-22 at 9 41 52 PM" src="https://github.com/GagandeepCodes/machine-learning-admission-prediction/assets/107742349/4b84ecbd-bc1b-4c20-86ce-5492f29505d7">
+
+<br><br>
+
+<img width="1000" alt="Screenshot 2024-04-22 at 9 42 26 PM" src="https://github.com/GagandeepCodes/machine-learning-admission-prediction/assets/107742349/d9a01abf-91ac-4d24-ab0d-2d907ef0a843">
+
+<br><br>
+
+**Step to Execute** <br><br>
+1. ```git clone```
+2. import all the libraries
+3. You are ready to go !!
+
+
+**Thank you**
