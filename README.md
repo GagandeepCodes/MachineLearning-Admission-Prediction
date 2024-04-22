@@ -1,3 +1,7 @@
+# University Admission Prediction using Machine Learning
+
+<br>
+
 **Introduction** <br><br>
 In today’s world, it is getting more and more difficult to get into prestigious universities in today's competitive academic environment. The difficult selection criteria, which include letters of recommendation, personal statements, standardized test scores, and academic accomplishments, must be met by applicants. There is frequently close rivalry during this process as candidates try to establish themselves as the most qualified and worthy ones.
 
